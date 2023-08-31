@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seth Derrick
 - 👀 I’m interested in solving problems using computers
-- 🌱 I’m currently learning ksqlDB and a variety of containerization technologies
+- 🌱 I’m currently learning AI/ML and data science technologies focused on generative AI using a variety of LLMs and tools/envs
 - 💞️ I’m looking to collaborate on interesting problems with curious people
 - 📫 You can reach me by emailing seth@sethderrick.tech
 
