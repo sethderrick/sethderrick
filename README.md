@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seth Derrick
+- 👋 Hi, I’m Seth Derrick. I've been writing code and building systems since the early 1990s when I bought my first computer while attending art school in San Francisco. 
 - 👀 I’m interested in building things
 - 🌱 I’m currently learning AI/ML, data science, and ways to make my Vim workflow more productive.
 - 🌱 I'm also studying the Rust language and hoping it gains wider adoption. 
