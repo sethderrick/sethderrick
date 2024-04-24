@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Seth Derrick
 - 👀 I’m interested in building things
-- 🌱 I’m currently learning AI/ML, data science, and ways to make my Vim workflow more productive. 
+- 🌱 I’m currently learning AI/ML, data science, and ways to make my Vim workflow more productive.
+- 🌱 I'm also studying the Rust language and hoping it gains wider adoption. 
 - 💞️ I’m looking to collaborate on interesting problems with curious people
 - 📫 You can reach me by emailing seth@sethderrick.tech
 
