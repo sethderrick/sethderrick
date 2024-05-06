@@ -13,6 +13,15 @@ I'm an engineering leader fluent in a variety of tech stacks and tooling. My car
 
 ### Skills
 
+<style>
+  .my-link {
+    text-decoration: none; /* Removes underline */
+  }
+  .my-link img {
+    display: block; /* Removes space under the image caused by inline-block elements */
+  }
+</style>
+
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -100,16 +109,16 @@ I'm an engineering leader fluent in a variety of tech stacks and tooling. My car
 ### Socials
 
 <p align="left">
-  <a target="_blank" rel="noreferrer" href="https://www.github.com/sethderrick">
+  <a class="my-link" target="_blank" rel="noreferrer" href="https://www.github.com/sethderrick">
     <img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
   </a>
-  <a target="_blank" rel="noreferrer" href="https://sethderrick.hashnode.dev">
+  <a class="my-link" target="_blank" rel="noreferrer" href="https://sethderrick.hashnode.dev">
     <img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg">
   </a>
-  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/sethderrick">
+  <a class="my-link" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/sethderrick">
     <img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
   </a>
-  <a target="_blank" rel="noreferrer" href="http://www.instagram.com/aggrohippy">
+  <a class="my-link" target="_blank" rel="noreferrer" href="http://www.instagram.com/aggrohippy">
     <img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg">
   </a>
 </p>
