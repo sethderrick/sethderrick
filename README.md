@@ -99,13 +99,13 @@ I'm an engineering leader fluent in a variety of tech stacks and tooling. My car
 
 ### Socials
 
-<p align="left"> 
+<p align="left">
   <a target="_blank" rel="noreferrer" href="https://www.github.com/sethderrick">
     <img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
-  </a> 
+  </a>
   <a target="_blank" rel="noreferrer" href="https://sethderrick.hashnode.dev">
     <img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg">
-  </a> 
+  </a>
   <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/sethderrick">
     <img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
   </a>
