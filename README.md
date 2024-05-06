@@ -24,7 +24,7 @@ I'm an engineering leader fluent in a variety of tech stacks and tooling. My car
     <img style="display: block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
   <a style="text-decoration: none;" href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    ![rust-logo-color](https://github.com/sethderrick/sethderrick/assets/759672/8006f387-c7ed-4f94-ae81-1dc3479956e4)
+    <img style="display: block;" src="https://github.com/sethderrick/sethderrick/assets/759672/8006f387-c7ed-4f94-ae81-1dc3479956e4" width="36" height="36" alt="Rust" />
   </a>
   <a style="text-decoration: none;" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img style="display: block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" width="36" height="36" />
