@@ -84,7 +84,7 @@ I'm an engineering leader fluent in a variety of tech stacks and tooling. My car
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   </a>
   <a style="text-decoration: none;" href="https://apple.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" />
+    <img src="https://github.com/sethderrick/sethderrick/assets/759672/fcfc5ea2-4584-456e-afbf-7a1842bc7acd" width="36" height="36" alt="MacOS" />
   </a>
   <a style="text-decoration: none;" href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
