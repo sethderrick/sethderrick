@@ -1,4 +1,4 @@
-![express-colored](https://github.com/sethderrick/sethderrick/assets/759672/6ad3ca6f-c394-4289-aa72-bd53b4f19cf0)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seth Derrick
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seth Derrick
 ====================================================================================================================================
 
 Architect, Team Leader, and IC
